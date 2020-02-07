@@ -7,10 +7,10 @@
 </p>
 <h4 align="center">Chat and send Bitcoin and Nordic Energy tokens without internet connection.</h4>
 <p align="center">
-  <a href="https://ravenshield.app/">Project Website</a> |
-  <a href="https://donate.ravenshield.app/donate">Donate</a> |
+  <a href="https://ravenshield.app">Project Website</a> |
+  <a href="https://ravenshield.app/donate">Donate</a> |
   <a href="https://github.com/sponsors/rdymac">Sponsor</a> |
-  <a href="https://nordicenergy.app/buy">ICO Token Sale</a>
+  <a href="https://nordicenergy.app">Buy tokens</a>
 </p>
 
 ___
