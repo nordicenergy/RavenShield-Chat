@@ -7,15 +7,14 @@
 </p>
 <h4 align="center">Chat and send Bitcoin and Nordic Energy tokens without internet connection.</h4>
 <p align="center">
-  <a href="https://ravenshield.nordicenergy.io/">Project Website</a> |
-  <a href="https://ravenshield.nordicenergy.io/donate">Donate</a> |
+  <a href="https://ravenshield.app/">Project Website</a> |
+  <a href="https://donate.ravenshield.app/donate">Donate</a> |
   <a href="https://github.com/sponsors/rdymac">Sponsor</a> |
   <a href="https://nordicenergy.app/buy">ICO Token Sale</a>
 </p>
 
 
-
-The Blockchain based mobile application for the RavenShield. The aim is to build an app for communication using text messages, images, documents or voice notes, and also for broadcasting offline signed Nordic Energy tokens and cryptocurrency transactions.
+The Blockchain based mobile application for the RavenShield. The aim is to build an app for communication using text messages, images, documents or voice notes, and also for broadcasting offline signed Nordic Energy tokens, bitcoin and other cryptocurrency transactions.
 
 
 ### About RavenShield
@@ -236,7 +235,9 @@ Please ⭐️ this repository if this project helped you!
 
 
 #### Donation
+
 If you like this project, feel free to donate:
+
 * Bitcoin:  14GyqCEZXyeythb6B6Vu5DiBCMszFrBsp1
 * Litecoin: LSi7smGjLwAmihFLEtV7Lit9Mmbsds9Tin
 * Ripple: rE5DbPTbtYT6tKqfXMD8352tTpdNvFydxb
